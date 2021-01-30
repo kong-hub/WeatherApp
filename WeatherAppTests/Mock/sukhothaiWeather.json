@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 99.6667,
+    "lat": 17.25
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 25.0,
+    "feels_like": 30.74,
+    "temp_min": 25,
+    "temp_max": 25,
+    "pressure": 1006,
+    "humidity": 99
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0.83,
+    "deg": 109
+  },
+  "clouds": {
+    "all": 13
+  },
+  "dt": 1612033234,
+  "sys": {
+    "type": 3,
+    "id": 2000657,
+    "country": "TH",
+    "sunrise": 1612050802,
+    "sunset": 1612091760
+  },
+  "timezone": 25200,
+  "id": 1150532,
+  "name": "Sukhothai",
+  "cod": 200
+}
